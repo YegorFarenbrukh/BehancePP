@@ -1,0 +1,6 @@
+framework module Pods_BehancePP {
+  umbrella header "Pods-BehancePP-umbrella.h"
+
+  export *
+  module * { export * }
+}
